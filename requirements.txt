@@ -1,0 +1,2 @@
+PySimpleGUI==4.20.0
+python-jenkins==1.7.0
